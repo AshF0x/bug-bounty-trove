@@ -156,6 +156,10 @@ Coming Soon
 |[dirsearch](https://github.com/maurosoria/dirsearch)|dirsearch is a simple command line tool designed to brute force directories and files in websites.|Python|Mauro Soria|
 |[Amass](https://github.com/OWASP/Amass)|Uses a variety of different techniques to gather subdomains and is able to build a network map of the target. Very good export options.|Go|OWASP|
 |[BuiltWith](https://builtwith.com)|A very handy Browser Extension (for Chrome, Firefox) that checks for more than 18,000 types of internet technologies. Gives you a very quick glance on what a Web Application is built.||BuiltWith®|
+|[hunter.io](https://www.hunter.io)|Email Enumeration for big corps|||
+|[intelx.io](https://intelx.io/)|Swiss army Knife of OSINT|||
+|[Shodan](https://www.shodan.io/)||||
+|[Censys](https://censys.io)||||
 ### Explotation
 | Name 	| Description 	    | Written in    | Created by   |
 |------	|-------------    	| ------------  |------------- |
