@@ -184,7 +184,7 @@ Coming Soon
 - [Hacker101](https://www.hacker101.com/) | Good Exercises for Beginners, can earn you private Invites on HackerOne
 - [Pentesterlab](https://pentesterlab.com) | Good Labs with a broad variety of Topics, some very good Web Application Exercises
 - [HackTheBox](https://www.hackthebox.eu/) | provides Testing Labs, some Web Application Challenges
-
+- [XSS-Game](https://xss-game.appspot.com/) | Learning Platform for XSS
 ---
 
 
