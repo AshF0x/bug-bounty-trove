@@ -47,7 +47,7 @@ Descriptions will be added later!
 |------	|-------------	|
 |[@NahamSec](https://twitter.com/NahamSec)|             	|
 |[@stokfredrik](https://twitter.com/stokfredrik)|             	|
-|[@TomNomNom](https://twitter.com/TomNomNom)|             	|
+|[@TomNomNom](https://twitter.com/TomNomNom)||
 |[@d0nutptr](https://twitter.com/d0nutptr)||
 |[@daeken](https://twitter.com/daeken)||
 |[@LiveOverflow](https://twitter.com/LiveOverflow)||
